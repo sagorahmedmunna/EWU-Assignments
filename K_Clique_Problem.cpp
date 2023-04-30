@@ -1,4 +1,4 @@
-//Clique Problem
+//K Clique Problem
 #include <bits/stdc++.h>
 using namespace std;
 
